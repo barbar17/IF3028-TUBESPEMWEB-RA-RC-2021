@@ -1,3 +1,8 @@
+### Anggota Tim
+1. Akbar Maulana 119140151
+2. Widodo 119140156
+3. Robi Setiawan 119140146
+
 ## Simple `LAPOR` :heavy_exclamation_mark:
 Anda mengetahui aplikasi `lapor` yang dibuat oleh pemerintah republik indonesia? jika tidak silahkan kunjungi 
 http://lapor.go.id, maka anda akan mendapatkan laman seperti gambar di bawah
